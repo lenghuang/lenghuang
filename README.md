@@ -1,4 +1,4 @@
-![](len.png)
+![](len-h.png)
 
 ## Hi, I'm Len 👋
 

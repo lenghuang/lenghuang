@@ -1,4 +1,4 @@
-![](len-h.png)
+![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/7d460902-c0aa-4539-92f5-84dd61f55c66/len-h.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20200816%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20200816T230252Z&X-Amz-Expires=86400&X-Amz-Signature=c3618da175f2cb9b3f4fc1315f4e4394705127df68a31be950424d2047948bd8&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22len-h.png%22)
 
 ## Hi, I'm `Len` Huang 👋
 

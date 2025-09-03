@@ -1,11 +1,11 @@
 ## Hi, I'm `Len` Huang 👋
 
-You might know me from finding the length of a list in `Python`. I'm currently a software engineer in New York City working at StubHub. In the past, I was a Computer Science student at Carnegie Mellon University in Pittsburgh, PA.
+You might know me from finding the length of a list in `Python`.
 
 ## Experiences
 
+🏥 Here's my GitHub user [from my time at Adonis](https://github.com/len-adonis).
 🎟️ Here's my GitHub user [from my time at StubHub](https://github.com/len-huang-sh).
-
 🙋 [Here's a more extensive list](https://github.com/lenghuang/lenghuang/tree/master/MoreProjects) of the little things I've worked on throughout the years, hopefully you find them interesting!
 
 Below are two I'd like to highlight.
